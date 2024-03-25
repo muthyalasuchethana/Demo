@@ -10,10 +10,16 @@ c = complex(z)
 d = float(p)
 e = complex(f)
 g = complex(p)
+
 print(a)
+
 print(b)
+
 print(c)
+
 print(d)
+
 print(e)
+
 print(g)
 
